@@ -1,0 +1,7 @@
+<<HOL message: Created theory "test">>
+Saved theorem _______ "bla"
+Exporting theory "test" ... done.
+Theory "test" took 8.0s to build
+Couldn't find required output file: /home/jd/cakeml/pancake/ring_buffer/ringbufferTheory.sml
+  check that export_theory call exists, and that new_theory
+  call is of the right name

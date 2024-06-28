@@ -1,0 +1,1 @@
+testTheory.uo: testTheory.ui /home/jd/HOL/sigobj/Globals.uo /home/jd/HOL/sigobj/HOLdict.uo /home/jd/HOL/sigobj/Parse.uo /home/jd/HOL/sigobj/Term.uo /home/jd/HOL/sigobj/Theory.uo /home/jd/HOL/sigobj/TheoryReader.uo /home/jd/HOL/sigobj/Thm.uo /home/jd/HOL/sigobj/Type.uo /home/jd/cakeml/pancake/parser/panPtreeConversionTheory.uo /home/jd/cakeml/pancake/semantics/panSemTheory.uo 

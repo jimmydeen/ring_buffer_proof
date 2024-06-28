@@ -1,0 +1,14 @@
+$(HOLDIR)/sigobj/Globals
+$(HOLDIR)/sigobj/HOLdict
+$(HOLDIR)/sigobj/Overlay
+$(HOLDIR)/sigobj/Parse
+$(HOLDIR)/sigobj/Term
+$(HOLDIR)/sigobj/Theory
+$(HOLDIR)/sigobj/TheoryReader
+$(HOLDIR)/sigobj/Thm
+$(HOLDIR)/sigobj/Type
+$(CAKEMLDIR)/pancake/parser/panPtreeConversionTheory
+$(CAKEMLDIR)/pancake/ring_buffer/testTheory
+$(CAKEMLDIR)/pancake/ring_buffer/testTheory
+$(CAKEMLDIR)/pancake/semantics/panSemTheory
+$(CAKEMLDIR)/pancake/ring_buffer/testTheory.sml
